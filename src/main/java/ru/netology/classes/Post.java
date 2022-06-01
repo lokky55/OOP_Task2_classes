@@ -7,7 +7,7 @@ public class Post {            // создаем класс описывающи
     public String patronymic;
     public String phone;
     public String surname;
-    public Boolean subscription;
+    public boolean subscription;
 
     public FormDate birthday;   // создаем поле birthdate с типом данных FormDate - делаем впервые - не объяснено!!!
 }
